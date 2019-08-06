@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[ton.qt-translation-018x]
+file_filter = src/qt/locale/ton_<lang>.ts
+source_file = src/qt/locale/ton_en.ts
+source_lang = en

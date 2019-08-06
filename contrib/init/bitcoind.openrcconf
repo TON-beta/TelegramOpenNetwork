@@ -1,0 +1,33 @@
+# /etc/conf.d/tond: config file for /etc/init.d/tond
+
+# Config file location
+#tonD_CONFIGFILE="/etc/ton/ton.conf"
+
+# What directory to write pidfile to?  (created and owned by $tonD_USER)
+#tonD_PIDDIR="/var/run/tond"
+
+# What filename to give the pidfile
+#tonD_PIDFILE="${tonD_PIDDIR}/tond.pid"
+
+# Where to write tond data (be mindful that the blockchain is large)
+#tonD_DATADIR="/var/lib/tond"
+
+# User and group to own tond process
+#tonD_USER="ton"
+#tonD_GROUP="ton"
+
+# Path to tond executable
+#tonD_BIN="/usr/bin/tond"
+
+# Nice value to run tond under
+#tonD_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#tonD_OPTS=""
+
+# The timeout in seconds OpenRC will wait for tond to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+tonD_SIGTERM_TIMEOUT=60

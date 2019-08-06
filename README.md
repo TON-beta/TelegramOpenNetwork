@@ -13,7 +13,7 @@ HOW TO PARTICIPATE IN BETA TEST?
 
 Beta keys are sharing by our current testers, but feel free to contact us and request a key.
 
-==============================
+<hr>
 
-Whitepaper: <a href="https://tonbeta.io/gNQ7e9z3lCGi519Wz8mmC0Kg8aA0goeZKAQ802vo.pdf">click to read</a>
+Whitepaper: <a href="https://tonbeta.io/gNQ7e9z3lCGi519Wz8mmC0Kg8aA0goeZKAQ802vo.pdf">click to read</a><br>
 Binaries: <a href="https://github.com/TON-beta/TONbinaries">download</a>

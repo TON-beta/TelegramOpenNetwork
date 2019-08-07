@@ -21,7 +21,7 @@ Beta keys are sharing by our current testers, but feel free to contact us and re
 
 Whitepaper: <a href="https://tonbeta.io/gNQ7e9z3lCGi519Wz8mmC0Kg8aA0goeZKAQ802vo.pdf">click to read</a><br>
 Windows client: <a href="https://github.com/TON-beta/TONbinaries/raw/master/TONbeta_win_0_4_3.zip">download</a><br>
-OSX client: will be avalable soon<br>
-Linux client: will be avalable soon<br>
+OSX client: will be available soon<br>
+Linux client: will be available soon<br>
 
 <hr>
